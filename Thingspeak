@@ -7,7 +7,7 @@ const char* ssid = "YOUR_WIFI_NAME";
 const char* password = "YOUR_WIFI_PASSWORD";
 
 // Your thingspeak channel url with api_key query
-String serverName = "https://api.thingspeak.com/update?api_key=YOUR_WRITE_KEY";
+String serverName = "https://api.thingspeak.com/update?api_key=YPILXQ29G4VW0L6D";
 
 // Assign some variables to allow us read and send data every minute
 unsigned long lastTime = 0;
